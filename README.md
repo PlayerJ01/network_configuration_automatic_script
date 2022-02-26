@@ -1,0 +1,2 @@
+# network_configuration_automatic_script
+自学习的网络配置脚本
